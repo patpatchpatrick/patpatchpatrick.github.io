@@ -1,10 +1,24 @@
 ---
 layout: home
 ---
-# About Theme
+# Who Am I?
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am a full-stack developer focused on entering the world of Java/Android. I spent five years working in the tech industry with a healthcare focus. I fell in love with software and decided to explore it deeper by entering the world of software development.  Ever since, I have been teaching myself everything and anything there is to know about coding non-stop.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+# Skills
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+*Android
+*Java
+*Front-End Design
+*Databases
+*Networking/Profiles
+*Firebase
+*App Monetization (In-App Products, Advertising)
+*Much, much more
+
+# Status
+Currently looking for freelance work.  Open to any Android or Java projects - the more challenging the better.  
+Contact me:
+Email - patrickdoyleconsulting@gmail.com
+[Upwork](https://www.upwork.com/o/profiles/users/_~0199ef76ec61573fae/)
+
