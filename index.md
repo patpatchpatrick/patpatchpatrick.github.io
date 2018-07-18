@@ -10,6 +10,7 @@ I am a full-stack developer focused on entering the world of Java/Android. [I sp
 *Android  
 *Java  
 *Front-End Design  
+*Git
 *Databases  
 *Networking/Profiles  
 *Firebase  
