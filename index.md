@@ -6,7 +6,8 @@ layout: home
 I am a full-stack developer focused on entering the world of Java/Android. I spent five years working in the tech industry with a healthcare focus. I fell in love with software and decided to explore it deeper by entering the world of software development.  Ever since, I have been teaching myself everything and anything there is to know about coding non-stop.
 
 # Skills
-  
+
+&nbsp;
 *Android  
 *Java  
 *Front-End Design  
@@ -18,6 +19,7 @@ I am a full-stack developer focused on entering the world of Java/Android. I spe
 
 # Status
 
+&nbsp;
 Currently looking for freelance work.  Open to any Android or Java projects - the more challenging the better.  
 Contact me:  
 Email - patrickdoyleconsulting@gmail.com  
