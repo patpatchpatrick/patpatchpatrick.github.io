@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Patrick Doyle
+description: Android Developer
+url: https://patpatchpatrick.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+#email:             patrickdoyleconsulting@gmail.com
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:             patpatchpatrick
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#linkedin:          patricktdoyle
 #xing:              username
-#instagram:          username
+#instagram:         patpatchpatrick
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
