@@ -34,10 +34,10 @@ email:             patrickdoyleconsulting@gmail.com
 #twitter:            username
 #facebook:           username
 github:             patpatchpatrick
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          patricktdoyle
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          patricktdoyle
 #xing:              username
-#instagram:         patpatchpatrick
+instagram:         patpatchpatrick
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
