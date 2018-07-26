@@ -9,9 +9,9 @@ I am a full-stack developer focused on entering the world of Java/Android. [I sp
 \\
 *Android  
 *Java  
-*Front-End Design  
 *Git  
-*Dagger 2  
+*Dagger 2 (Dependency Injection)  
+*RxJava/RxAndroid 2 (Reactive Programming and Multi-Threading)  
 *MVP Architecture  
 *Databases  
 *Networking/Profiles  
