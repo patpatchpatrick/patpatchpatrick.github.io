@@ -21,7 +21,7 @@ I am a full-stack developer focused on entering the world of Java/Android. [I sp
 
 # Status
 \\
-Currently looking for freelance work.  Open to any Android or Java projects - the more challenging, the better.  
+Currently looking for freelance work and full-time opportunities.  Open to any Android or Java projects - the more challenging, the better.  
 Contact me:  
 Email - patrickdoyleconsulting@gmail.com  
 [Upwork](https://www.upwork.com/o/profiles/users/_~0199ef76ec61573fae/)
