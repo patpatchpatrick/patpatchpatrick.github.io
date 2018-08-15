@@ -1,9 +1,8 @@
 - title: Streakr Goal/Habit Tracker
   url: https://github.com/patpatchpatrick/Streakr
   image: https://raw.githubusercontent.com/patpatchpatrick/Streakr/master/app/docs/images/streakr-website-project-page.png
-  completed: true
-  
-  - title: NFL Season Simulator
+  completed: true 
+- title: NFL Season Simulator
   url: https://github.com/patpatchpatrick/NFLSeasonSimulator
   image: https://raw.githubusercontent.com/patpatchpatrick/NFLSeasonSimulator/master/app/docs/images/NflSeasonSimWebsiteProjectPage.png
   completed: true
