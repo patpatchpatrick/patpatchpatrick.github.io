@@ -10,6 +10,7 @@ I am a full-stack developer focused on entering the world of Java/Android. [I sp
 *Android  
 *Java  
 *Git  
+*Testing (Unit Tests, Instrumented Tests, Espresso)  
 *Dagger 2 (Dependency Injection)  
 *RxJava/RxAndroid 2 (Reactive Programming and Multi-Threading)  
 *MVP Architecture  
