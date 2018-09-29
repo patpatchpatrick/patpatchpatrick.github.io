@@ -1,3 +1,7 @@
+- title: NBA Season Simulator
+  url: https://github.com/patpatchpatrick/nbaseasonsim
+  image: https://raw.githubusercontent.com/patpatchpatrick/nbaseasonsim/master/app/docs/images/NbaSeasonSimFeatureScreens.png
+  completed: true  
 - title: NFL Season Simulator
   url: https://github.com/patpatchpatrick/NFLSeasonSimulator
   image: https://raw.githubusercontent.com/patpatchpatrick/NFLSeasonSimulator/master/app/docs/images/NflSeasonSimWebsiteProjectPage.png
