@@ -1,6 +1,6 @@
 # Site
 title: Patrick Doyle
-description: Android Developer
+description: Mobile Developer
 url: https://patpatchpatrick.github.io/
 logo: face-circle-crop.png                                       # Site logo
 locale: en_US
@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             patrickdoyleconsulting@gmail.com
+email:             patpatchpatricksoftware@gmail.com
 #google.plus:        username
 #twitter:            username
 #facebook:           username
