@@ -7,10 +7,14 @@ I am a full-stack developer focused on entering the world of Mobile Development.
 
 # Skills
 \\
-- Android  
-- Java  
-- iOS  
-- Swift   
+* Android   
+
+* Java   
+
+* iOS   
+
+* Swift   
+   
 
 
 
